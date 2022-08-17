@@ -3,6 +3,15 @@ Community Hub's Digital Signage Software Public Release Repo
 
 ## How to setup app in linux system
 
+*NOTE: If you're installing this application(AppImage) for first time on the system, an additional software will be needed which can be installed by following below steps.*
+  - Open terminal
+  - Paste command: *sudo apt install libfuse2*
+  - press enter
+
+---
+Following steps wll be same for all installation
+---
+
 - Go to [releases section](https://github.com/Community-Hub/ch-dss-releases/releases).
 - Download .AppImage file from latest release.
 ![Screenshot 2022-08-17 121543](https://user-images.githubusercontent.com/101592178/185068720-5237c3c7-0992-4874-a711-641417aa04d8.png)
