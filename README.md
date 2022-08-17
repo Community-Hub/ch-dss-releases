@@ -5,7 +5,8 @@ Community Hub's Digital Signage Software Public Release Repo
 
 - Go to [releases section](https://github.com/Community-Hub/ch-dss-releases/releases).
 - Download .AppImage file from latest release.
-![Screenshot 2022-08-17 121543](https://user-images.githubusercontent.com/101592178/185053185-62d8b647-4072-4876-b52b-74ba241c67bd.png)
+![Screenshot 2022-08-17 121543](https://user-images.githubusercontent.com/101592178/185068720-5237c3c7-0992-4874-a711-641417aa04d8.png)
+
 - Change downloaded file permission.
   - Right click on file and selct properties option. <br/><br/>
 ![image (2)](https://user-images.githubusercontent.com/101592178/185065315-4958de62-8bb4-4b2d-a441-a28ac3a2fc9e.png)
