@@ -1,15 +1,14 @@
-# Digital Signage Software Release
-Community Hub's Digital Signage Software Public Release Repo
+# Digital Signage Software Release Repository
 
-## How to setup app in linux system
+## How to setup the CH Digital Signage App in a Linux System (like Debian/Ubuntu)
 
-*NOTE: If you're installing this application(AppImage) for first time on the system, an additional software will be needed which can be installed by following below steps.*
+*NOTE: If you're installing this application (AppImage) for the first time on the system, an additional software package will be needed which can be installed by following below steps.*
   - Open terminal
   - Paste command: *sudo apt install libfuse2*
-  - press enter
+  - Press enter
 
 ---
-Following steps wll be same for all installation
+Following steps will be same for all the following installation
 ---
 
 - Go to [releases section](https://github.com/Community-Hub/ch-dss-releases/releases).
