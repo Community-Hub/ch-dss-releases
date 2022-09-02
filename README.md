@@ -34,3 +34,17 @@ Following steps will be same for all the following installation
 
   - There should be application entry in list(Ref image) <br/><br/>
 ![image (6)](https://user-images.githubusercontent.com/101592178/185066546-13ae9357-1af4-4bb5-a310-5f004a20cb69.png)
+
+
+---
+Uninstalling steps (for legacy version in Oberlin)
+---
+  - Open terminal
+  - Paste command: *sudo apt-get remove media-player
+  - Press enter <br/><br/>
+![Screenshot (28)](https://user-images.githubusercontent.com/101592178/188141778-9ff89e77-e5d9-4b50-acf0-4a7b39d8b4b9.png)
+  - press 'Y' and enter <br/><br/>
+![Screenshot (29)](https://user-images.githubusercontent.com/101592178/188141923-5e5173c0-d073-4822-85dc-186f0e827d99.png)
+
+
+
