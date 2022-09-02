@@ -37,7 +37,7 @@ Following steps will be same for all the following installation
 
 
 ---
-Uninstalling steps (for legacy version in Oberlin)
+Uninstalling steps (for legacy version)
 ---
   - Open terminal
   - Paste command: sudo apt-get remove media-player
