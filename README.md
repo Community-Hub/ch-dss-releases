@@ -2,7 +2,7 @@
 
 ## How to setup the CH Digital Signage App in a Linux System (like Debian/Ubuntu)
 
-*NOTE: If you're installing this application (AppImage) for the first time on the system, an additional software package will be needed which can be installed by following below steps.*
+*NOTE: If you're installing this application (AppImage) for the first time on the system, an additional software package will be needed which can be installed by following below steps. Before installing the new version of the application make sure that you have uninstalled the legacy version. Check [this section](https://github.com/Community-Hub/ch-dss-releases#uninstalling-steps-for-legacy-version) for instructions.*
   - Open terminal
   - Paste command: *sudo apt install libfuse2*
   - Press enter
