@@ -1,5 +1,65 @@
 # Digital Signage Software Release Repository
 
+## How to setup the CH Digital Signage App in a Windows 10/11
+
+- Go to [releases section](https://github.com/Community-Hub/ch-dss-releases/releases).
+- Download .exe file from latest release.
+- Click on downloaded exec file to inilize installation
+![image](https://user-images.githubusercontent.com/18675507/211371139-aa81fbd1-4991-4a1a-9da3-8a97e4982e33.png)
+- Click on *Run* button in installation popup.
+![image](https://user-images.githubusercontent.com/18675507/211379154-fbd30527-9921-49d0-bebe-d1afb8b8d12a.png)
+- It will start the installation process 
+![image](https://user-images.githubusercontent.com/18675507/211379640-fc36dab3-1d85-42c4-bb2b-ef9548108ddf.png)
+- After complete the installalation it will auto start the application to setup the display configuration
+
+*NOTE: Uninstallation of previous version is not needed as every new installation will overide the previous installed version.*
+
+---
+### Turn Off Windows Lock screen
+
+  - Click on Windows Start
+  - Search for : *Group policy*
+  - Click on *Edit Group Policy*, [see below image]
+![image](https://user-images.githubusercontent.com/18675507/211323253-7889d831-40e2-4c4f-9b04-dec953d0074f.png)
+  - Navigate to *Computer Configuration* > *Administrative Templates* > *Control Panel* > *Personalization*
+  - In Right section select *Do not display the lock screen* setting
+  - And then click on *policy setting*
+![image](https://user-images.githubusercontent.com/18675507/211336156-717a8b3f-c358-4523-8350-b2e45a76acda.png)
+  - Selec *Enabled* setting & click on *Apply* Button
+![image](https://user-images.githubusercontent.com/18675507/211340338-03708e4e-d3ed-4782-a5c3-336341000f85.png)
+
+
+---
+### Turn Off Windows Auto Update
+  - In the same *Group policy* Window, Navigate to Computer Configuration > Administrative Templates > Windows Components > Windows Update
+  - Click on Windows Start
+  - Search for : *Services*
+  - Open the *Services*
+![image](https://user-images.githubusercontent.com/18675507/211358532-d1e7feb2-f549-4cf0-ae84-39e62b918aec.png)
+  - Search for *Windows Update*
+  - Right Click on *Windows Update* & select *Properties*
+![image](https://user-images.githubusercontent.com/18675507/211343602-f135b38c-38b3-49a6-a8c6-5c059a5b180b.png)
+  - Inside *Windows Update Properties* , select *Disabled* in *Statrup type*
+  - Click *Apply* to disable the windows update
+![image](https://user-images.githubusercontent.com/18675507/211359510-514a9719-f65d-46ee-ab37-5b188fe2e43c.png)
+
+---
+### Remove Windows User password *(Optional)*
+*NOTE: This step is only required where Windows user need a password to login*
+  - Click on Windows Start
+  - Search for : *Cmd* or *Command Prompt*
+  - Right click on Cmd & select *Run as Administrator*
+![image](https://user-images.githubusercontent.com/18675507/211362937-fa9ea69f-3b55-4e59-b91d-bbffce85a28b.png)
+  - Write *net user* & hit enter
+  - It will list all user in the system select the user in which our application will
+  - Write **net user Administrator ""** here Administrator is an example you may have different user. Double quote means no-password.
+
+![image](https://user-images.githubusercontent.com/18675507/211365727-08f13f2f-d35d-408a-bb89-b524b9b96f4f.png)
+
+*NOTE: After performing all steps we need to restart the system to apply all the changes.*
+
+---
+
 ## How to setup the CH Digital Signage App in a Linux System (like Debian/Ubuntu)
 
 *NOTE: If you're installing this application (AppImage) for the first time on the system, an additional software package will be needed which can be installed by following below steps.*
