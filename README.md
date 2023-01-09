@@ -4,12 +4,14 @@
 
 - Go to [releases section](https://github.com/Community-Hub/ch-dss-releases/releases).
 - Download .exe file from latest release.
-- Click on downloaded exec file to inilize installation
+- Click on downloaded exec file to inilize installation.
 ![image](https://user-images.githubusercontent.com/18675507/211371139-aa81fbd1-4991-4a1a-9da3-8a97e4982e33.png)
 - Click on *Run* button in installation popup.
-![image](https://user-images.githubusercontent.com/18675507/211379154-fbd30527-9921-49d0-bebe-d1afb8b8d12a.png)
-- It will start the installation process 
-![image](https://user-images.githubusercontent.com/18675507/211379640-fc36dab3-1d85-42c4-bb2b-ef9548108ddf.png)
+![image](https://user-images.githubusercontent.com/18675507/211382740-3d73b13f-0b3e-41b1-a5fb-ef286cb44680.png)
+
+- It will start the installation process.
+![image](https://user-images.githubusercontent.com/18675507/211383021-8a1f074a-e97a-496b-b7f0-03365c71e0e3.png)
+
 - After complete the installalation it will auto start the application to setup the display configuration
 
 *NOTE: Uninstallation of previous version is not needed as every new installation will overide the previous installed version.*
@@ -25,7 +27,7 @@
   - In Right section select *Do not display the lock screen* setting
   - And then click on *policy setting*
 ![image](https://user-images.githubusercontent.com/18675507/211336156-717a8b3f-c358-4523-8350-b2e45a76acda.png)
-  - Selec *Enabled* setting & click on *Apply* Button
+  - Select *Enabled* setting & click on *Apply* Button
 ![image](https://user-images.githubusercontent.com/18675507/211340338-03708e4e-d3ed-4782-a5c3-336341000f85.png)
 
 
