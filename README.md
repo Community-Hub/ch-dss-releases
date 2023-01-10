@@ -43,8 +43,39 @@
 ![image](https://user-images.githubusercontent.com/18675507/211343602-f135b38c-38b3-49a6-a8c6-5c059a5b180b.png)
   - Inside *Windows Update Properties* , select *Disabled* in *Statrup type*
   - Click *Apply* to disable the windows update
-![image](https://user-images.githubusercontent.com/18675507/211359510-514a9719-f65d-46ee-ab37-5b188fe2e43c.png)
+  - ![image](https://user-images.githubusercontent.com/18675507/211359510-514a9719-f65d-46ee-ab37-5b188fe2e43c.png)
 
+---
+### Schedule Task/Cron to Reboot System *(Optional)*
+  - Click on Windows Start
+  - Search for : *Task Scheduler*
+![image](https://user-images.githubusercontent.com/18675507/211564172-6efd5ca9-3911-4b84-8c6e-31b40ea537e0.png)
+  - Expand *Task Schedular (Local)* and Select *Task Schedular Library* &
+  - Right click on it, it will open a contex menu
+  - Click on *New Folder*
+  - ![create-new-folder](https://user-images.githubusercontent.com/18675507/211566677-149e9fc4-e65d-4669-96c0-67581337b7cd.png)
+  - Set Folder Name as *Reboot System* [you may give any user friendly name, it will be easy to search for future reference]
+  - ![set-folder-name](https://user-images.githubusercontent.com/18675507/211593398-3c4cda4a-d314-4785-b7da-4649a9f007e4.png)
+  - After creating folder, it will be visible under *Task Schedular Library*
+  - Click on newly created folder [*Reboot System*] & then select *Create Task* in right section (*Action*)
+  - ![image](https://user-images.githubusercontent.com/18675507/211597653-a18d3144-153b-4ae9-8490-c7c87a057734.png)
+  - It will open a popup, here mainly we'll set General, Triggers & Action tabs, then finally click on *OK* button to save the task.
+  - First, in *General* tab, fill the fields as given in the below image
+  - ![image](https://user-images.githubusercontent.com/18675507/211607249-4b9bc7ef-70ae-4e7b-8750-abf0607659ac.png) 
+
+  - Next in *Triggers* tab, click on *New* button
+  - ![set-trigger](https://user-images.githubusercontent.com/18675507/211616998-1f982a8d-12aa-46b3-9844-fe914356f798.png)
+  - In *New Trigger* popup fill the fields as per below image and then click *OK*
+  - ***NOTE: In below image it is showing example of a Daily task to execute at 08:00AM everyday starting from 6th Jan 2023. We can set time as per requirement.***
+  - ![set-schedule-time](https://user-images.githubusercontent.com/18675507/211617407-76e52170-765d-46e6-b55b-2792c9dd529e.png)
+  - Once it new trigger is saved it will be visible in the *Trigger* list 
+  - ![image](https://user-images.githubusercontent.com/18675507/211619445-d92eb4a1-76f7-4521-8b7e-5cd9f8b6f830.png)
+  - Next in *Actions* tab, click on *New* button
+  - ![Screenshot (106)](https://user-images.githubusercontent.com/18675507/211620163-07a1f9f3-f738-452c-81f0-3d4930ae1546.png)
+  - In *New Action* popup, fill action details as given in the below image. *NOTE: In Action, it is defining a restart program/script as shutdown /r*. Once all information is filled then click on *OK* button to save the action.
+  - ![image](https://user-images.githubusercontent.com/18675507/211622948-75ec4fa3-c50f-4169-bf6f-3c97b893b90e.png)
+  - Once task get created, it will listed as following image
+  - ![image](https://user-images.githubusercontent.com/18675507/211612917-1a072a10-c545-4705-9111-42ee95e63427.png)
 ---
 ### Remove Windows User password *(Optional)*
 *NOTE: This step is only required where Windows user need a password to login*
