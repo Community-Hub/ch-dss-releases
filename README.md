@@ -67,15 +67,16 @@
   - ![set-trigger](https://user-images.githubusercontent.com/18675507/211616998-1f982a8d-12aa-46b3-9844-fe914356f798.png)
   - In *New Trigger* popup fill the fields as per below image and then click *OK*
   - ***NOTE: In below image it is showing example of a Daily task to execute at 08:00AM everyday starting from 6th Jan 2023. We can set time as per requirement.***
-  - ![set-schedule-time](https://user-images.githubusercontent.com/18675507/211617407-76e52170-765d-46e6-b55b-2792c9dd529e.png)
+  - ![image](https://user-images.githubusercontent.com/18675507/211625742-12a1cbd9-4f06-4058-b612-430cacd58095.png)
   - Once it new trigger is saved it will be visible in the *Trigger* list 
   - ![image](https://user-images.githubusercontent.com/18675507/211619445-d92eb4a1-76f7-4521-8b7e-5cd9f8b6f830.png)
   - Next in *Actions* tab, click on *New* button
-  - ![Screenshot (106)](https://user-images.githubusercontent.com/18675507/211620163-07a1f9f3-f738-452c-81f0-3d4930ae1546.png)
+  - ![Screenshot (105)](https://user-images.githubusercontent.com/18675507/211626900-3d81e747-4624-424c-9f55-0dd06e881291.png)
   - In *New Action* popup, fill action details as given in the below image. *NOTE: In Action, it is defining a restart program/script as shutdown /r*. Once all information is filled then click on *OK* button to save the action.
-  - ![image](https://user-images.githubusercontent.com/18675507/211622948-75ec4fa3-c50f-4169-bf6f-3c97b893b90e.png)
+  - ![image](https://user-images.githubusercontent.com/18675507/211626281-521c46fb-e458-49d6-885d-dddc695a78d0.png)
+  - ![Screenshot (108)](https://user-images.githubusercontent.com/18675507/211626409-d1a5ef32-aed4-453e-aa7f-5c4064cda86e.png)
   - Once task get created, it will listed as following image
-  - ![image](https://user-images.githubusercontent.com/18675507/211612917-1a072a10-c545-4705-9111-42ee95e63427.png)
+  - ![task-created](https://user-images.githubusercontent.com/18675507/211626477-9788c30a-24b1-4ce4-9a1d-922314ae6575.png)
 ---
 ### Remove Windows User password *(Optional)*
 *NOTE: This step is only required where Windows user need a password to login*
