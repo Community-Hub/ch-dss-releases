@@ -75,7 +75,7 @@
   - In *New Action* popup, fill action details as given in the below image. *NOTE: In Action, it is defining a restart program/script as shutdown /r*. Once all information is filled then click on *OK* button to save the action.
   - ![image](https://user-images.githubusercontent.com/18675507/211626281-521c46fb-e458-49d6-885d-dddc695a78d0.png)
   - ![Screenshot (108)](https://user-images.githubusercontent.com/18675507/211626409-d1a5ef32-aed4-453e-aa7f-5c4064cda86e.png)
-  - Once task get created, it will listed as following image
+  - Once task get created, it will listed as following image. *NOTE: To make changes in task, simply double click on the task & it will open the edit popup having the same option as above.*
   - ![task-created](https://user-images.githubusercontent.com/18675507/211626477-9788c30a-24b1-4ce4-9a1d-922314ae6575.png)
 ---
 ### Remove Windows User password *(Optional)*
