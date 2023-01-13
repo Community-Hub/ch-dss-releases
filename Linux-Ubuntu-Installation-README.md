@@ -1,6 +1,8 @@
-# Digital Signage Software Release Repository
+# Digital Signage Software Release Repository 
+
 
 ## How to setup the CH Digital Signage App in a Linux System (like Debian/Ubuntu)
+[<img src="https://user-images.githubusercontent.com/18675507/212409634-ca51a45e-86e8-4bc6-8d55-a940ed20a7dc.png" height="30" />](https://user-images.githubusercontent.com/18675507/212409634-ca51a45e-86e8-4bc6-8d55-a940ed20a7dc.png) | [<img src="https://user-images.githubusercontent.com/18675507/212412466-b679ba7b-4085-49e1-bfc7-9410db93af51.png" height="30" />](https://user-images.githubusercontent.com/18675507/212412466-b679ba7b-4085-49e1-bfc7-9410db93af51.png)
 
 *NOTE: If you're installing this application (AppImage) for the first time on the system, an additional software package will be needed which can be installed by following below steps.*
 
