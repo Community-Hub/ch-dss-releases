@@ -1,4 +1,4 @@
-# How to setup the CH Digital Signage App in a Windows 10/11
+# How to setup the CH Digital Signage App in a Windows 10/11 [<img src="https://user-images.githubusercontent.com/18675507/212406931-e970393b-8c59-42d2-8178-26266c548859.png" width="30"/>](https://user-images.githubusercontent.com/18675507/212406931-e970393b-8c59-42d2-8178-26266c548859.png)
 
 ---
 
