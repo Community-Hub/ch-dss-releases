@@ -146,3 +146,21 @@ This will restart the computer. We recommend having the computer restart once pe
 - Click *******Apply.*******
 
 *NOTE: After performing all steps we need to restart the system to apply all the changes.*
+
+Sure! Here are the instructions to auto-hide the Windows taskbar using Markdown with embedded images:
+
+## 6. Turn On Autohide taskbar.
+
+Step 1: Right-click on an empty area of the taskbar.  
+![Right-click on an empty area](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/4689f0c0-10e1-4b4e-8822-0bf28bb59ec3)
+
+Step 2: From the context menu that appears, select "Taskbar settings."  
+![Select Taskbar settings](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/43bd04c8-0073-4bde-b8f0-80a9694f6f4f)
+
+
+Step 3: In the Taskbar settings window, locate the "Automatically hide the taskbar in desktop mode" option and toggle the switch to the "On" position.  
+![Toggle Automatically hide the taskbar](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/674f7c50-fdfd-425d-94fb-63d4cd686b1d)
+
+Step 4: Optionally, you can also enable the "Automatically hide the taskbar in tablet mode" option if you use a device with touch functionality and want the taskbar to hide in tablet mode as well.  
+
+Step 5: Once enabled, the taskbar will automatically hide when not in use. To access it, move your cursor to the bottom of the screen, and it will reappear.
