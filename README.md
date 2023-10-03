@@ -23,9 +23,10 @@
  ***NOTE: Uninstallation of the previous version is not needed as every new installation will override the previously installed version.***
 
   - **Setup the display configuration**
+    - In the setup screen, we need to select the community & the respective display to open the presentations. The **Remember this display on next start** option is used to remember the selected community/display combination for the next time we open this application (it will directly open the presentation without opening the setup screen.)
     ![image](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/398fec47-e09c-4e7e-a0c1-ccdc0d854296)
 
-  - **There are some shortcuts given to operate the application, it can be access by pressing ⌘+H or F1 key**
+  - **There are some shortcuts given to operate the application, the popup will open by pressing ⌘+H or F1 key**
     ![image](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/7e286526-938f-493a-97f3-9e803a966981)
 
 ---
