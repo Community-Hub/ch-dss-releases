@@ -18,9 +18,15 @@
     
     ![https://user-images.githubusercontent.com/18675507/211383021-8a1f074a-e97a-496b-b7f0-03365c71e0e3.png](https://user-images.githubusercontent.com/18675507/211383021-8a1f074a-e97a-496b-b7f0-03365c71e0e3.png)
     
-- After the installation completes, it will auto start the application to setup the display configuration
+- After the installation completes, it will auto-start the application to setup the display configuration
 
-*NOTE: Uninstallation of previous version is not needed as every new installation will override the previously installed version.*
+ ***NOTE: Uninstallation of the previous version is not needed as every new installation will override the previously installed version.***
+
+  - **Setup the display configuration**
+    ![image](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/398fec47-e09c-4e7e-a0c1-ccdc0d854296)
+
+  - **There are some shortcuts given to operate the application, it can be access by pressing ⌘+H or F1 key**
+    ![image](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/7e286526-938f-493a-97f3-9e803a966981)
 
 ---
 
