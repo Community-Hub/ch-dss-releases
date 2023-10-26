@@ -181,4 +181,5 @@ Step 5: Once enabled, the taskbar will automatically hide when not in use. To ac
 - Step 3: Click on Notifications & actions
 - Step 4: Uncheck the items as suggested below screenshot
 
-![image](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/6652f946-6528-410e-a286-6151fe8f1175)
+![image](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/d43f53bd-7062-444a-8560-4799031b80d2)
+
