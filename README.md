@@ -173,3 +173,12 @@ Step 3: In the Taskbar settings window, locate the "Automatically hide the taskb
 Step 4: Optionally, you can also enable the "Automatically hide the taskbar in tablet mode" option if you use a device with touch functionality and want the taskbar to hide in tablet mode as well.  
 
 Step 5: Once enabled, the taskbar will automatically hide when not in use. To access it, move your cursor to the bottom of the screen, and it will reappear.
+
+## 7. Turn off Notifications
+
+- Step 1: Open Settings
+- Step 2: Click on System
+- Step 3: Click on Notifications & actions
+- Step 4: Uncheck the items as suggested below screenshot
+
+![image](https://github.com/Community-Hub/ch-dss-releases/assets/18675507/6652f946-6528-410e-a286-6151fe8f1175)
