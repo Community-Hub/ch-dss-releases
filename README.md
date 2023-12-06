@@ -52,6 +52,25 @@
     ![https://user-images.githubusercontent.com/18675507/211340338-03708e4e-d3ed-4782-a5c3-336341000f85.png](https://user-images.githubusercontent.com/18675507/211340338-03708e4e-d3ed-4782-a5c3-336341000f85.png)
     
 
+### For Windows 10 &11 Home users please follow the steps below:
+
+- **Step 1:** First, download the **gpedit-enabler.bat** file [from GitHub](https://github.com/Community-Hub/ch-dss-releases/blob/main/gpedit-enabler.bat)**[.](https://github.com/Thomas1475/gpedit)**
+    
+    ![image](https://github.com/Community-Hub/ch-dss-releases/assets/140792843/72c4f63d-16d0-443a-b8bc-6f8a10b97d9e)
+
+    
+- **Step 2:**  After downloading the file, right-click on the .bat file and run the file as administrator.
+    
+    ![image](https://github.com/Community-Hub/ch-dss-releases/assets/140792843/f0f5c613-8064-4ea3-b928-6af0464173d9)
+
+    
+- **Step 3:**  As soon as you click on the run as administrator. The command prompt of Windows will be opened automatically, and it will install all the required extensions.
+    
+   ![image](https://github.com/Community-Hub/ch-dss-releases/assets/140792843/2c6d868a-cefe-4252-9405-80d54aaa36ea)
+    
+- **Step 4:**  After the CMD installs all the required extensions, it will show **“The operation completed successfully.”** You can now close the CMD.
+- **Step 5:**  Now open the dialog box by pressing the Windows+R shortcut key, type **gpedit.msc,** and click OK.
+
 ---
 
 ## 3. Turn off the Windows Auto Updates
